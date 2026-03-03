@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'http://34.200.244.199:5000/api';
 
 // Global state
 let currentUser = null;
